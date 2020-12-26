@@ -8,3 +8,5 @@ In this file, a good password must have:
 3. At least one upper case character
 4. At least one lower case character
 5. At least one non-alphanumeric character
+
+Check out the video on https://www.youtube.com/channel/UCzw1_BkDtDeaaq9f8PJrJmA.
